@@ -1,80 +1,82 @@
-Pieter van Rooyen
+# Pieter van Rooyen
 
-Solo Full-Stack AI Platform Engineer | Agentic AI | Platform Engineering | Intelligent Systems
+## AI platform engineer building intelligent systems for real-world operations
 
-I design, build and ship AI-powered systems end-to-end — from architecture and orchestration through to backend engineering, integrations, governance and deployment.
+I design and build AI-powered products that connect business intent, software architecture, automation and measurable operational outcomes.
 
-My focus is building reliable, autonomous and production-oriented AI systems that solve real-world problems.
+My work sits at the intersection of **agentic AI, platform engineering, intelligent infrastructure and technology transformation** — from the first product idea through architecture, implementation, governance and delivery.
 
 Based in Johannesburg, South Africa.
 
----
+## What I build
 
-🚀 What I'm building
+### Intelligent infrastructure
 
-SENTINEL — Building Intelligence Platform
+**SENTINEL** is a building intelligence platform for BMS, IoT and operational data. It brings together equipment knowledge, telemetry, predictive maintenance, energy optimisation, evidence-linked recommendations and human-guided action.
 
-An intelligent building operations platform connecting BMS, IoT, energy systems and operational data to create a unified understanding of building performance.
+**SIMBIOT** extends this work into equipment discovery and semantic onboarding — helping systems understand what exists in a building before decisions are made about it.
 
-Focus areas:
+### Governed AI platforms
 
-- Building intelligence and canonical knowledge graphs
-- Agentic workflows and operational decision support
-- Predictive maintenance and asset health
-- Energy optimisation and evidence-based recommendations
+I build the foundations that make AI systems dependable: typed contracts, tool boundaries, retrieval and knowledge systems, agent identity, evidence, evaluation, approval workflows and observable execution.
 
-GSD Master — Structured AI Development
+**Development Platform Core**, **GSD Master**, **Forge** and **Herdr** are parts of this broader engineering practice: turning AI-assisted development and agentic execution into something structured, testable and governable.
 
-A structured development orchestration approach for AI coding agents, using phased execution, dependency management, verification and persistent project context.
+### Applied products
 
-Herdr — Multi-Agent Orchestration
+- **RewardsOS** — deterministic rewards intelligence for historical and counterfactual loyalty analysis.
+- **AimTheLaw** — legal operations software with AI-assisted workflows, document processing, integrations and automation.
+- **AI Interview Copilot** — a Windows desktop accessibility and interview-preparation assistant.
+- **Leani DTP** — evidence-governed document transformation for professional publishing workflows.
+- **REA — Reverse Engineer Anything** — an MCP and CLI product for investigating binaries, applications, websites and runtime behaviour with evidence.
 
-Exploring coordinated AI agent execution, task delegation, verification and recovery across multi-agent workflows.
+## My engineering perspective
 
-AI Development Platform Core
+The hard part of AI is not connecting an application to a model. It is designing the system around the model so that people can trust, inspect and control what happens next.
 
-Developing the foundations for reliable AI agent engineering, including reusable execution capabilities, governance, tool access, evidence and verification.
+I care about:
 
----
+- turning ambiguous business intent into clear system boundaries;
+- separating capability from permission;
+- making AI outputs typed, evidence-bound and reviewable;
+- using deterministic software where correctness is non-negotiable;
+- building human oversight into consequential workflows;
+- treating failure, deferral and recovery as first-class states;
+- creating reusable platforms instead of isolated AI demos.
 
-🧠 Technical Focus
+> **AI may propose. Evidence, policy and accountable software decide what can happen.**
 
-Area| Technologies
-Languages| Python, TypeScript
-Backend| FastAPI, Flask
-AI orchestration| LangGraph, Agentic Workflows
-AI engineering| RAG, MCP, LLM Integration
-Frontend| React, Vite, Tailwind CSS
-Data| PostgreSQL, Supabase, Redis, InfluxDB
-Infrastructure| Docker, Linux, CI/CD
-Engineering| API Design, System Architecture, Governance
+## Technical toolkit
 
----
+**Languages:** Python, TypeScript, JavaScript, SQL
+**Backend:** FastAPI, Celery, Node.js, REST, SSE, MCP
+**AI:** LangGraph, RAG, embeddings, knowledge graphs, LLM gateways, agent runtimes
+**Frontend:** React, Vite, Electron, Tailwind CSS
+**Data:** PostgreSQL, Supabase, Redis, InfluxDB, vector search
+**Infrastructure:** Linux, Docker, Kubernetes, Cloudflare, CI/CD, systemd
+**Practice:** product architecture, platform engineering, governance, testing, provenance, observability
 
-💡 Engineering Philosophy
+## AI-assisted engineering
 
-I believe the next generation of software will be built around AI agents, but reliable agentic systems require more than capable models.
+I use coding agents as force multipliers for exploration, implementation, testing, refactoring and documentation. The human contribution remains the important part: choosing the problem, defining the intent, setting the authority model, making the trade-offs and owning the outcome.
 
-They need:
+## Selected work
 
-- Explicit contracts and controlled execution.
-- Observable decisions and traceable evidence.
-- Independent verification.
-- Human oversight where it matters.
-- Reusable engineering foundations rather than isolated implementations.
+- [SENTINEL](https://github.com/Bederf/sentinel-ai) — building intelligence
+- [AI Interview Copilot](https://github.com/Bederf/ai-interview-copilot) — desktop AI and accessibility
+- [Leani DTP](https://github.com/Bederf/leanidtp) — governed document transformation
+- [Building Intelligence](https://github.com/Bederf/bms-intelligence) — BMS intelligence platform
+- [Applied AI Agent Platform](https://github.com/Bederf/arc-ai-agent-platform) — governed agent reference architecture
 
-My approach is to build the infrastructure that makes AI systems dependable, not simply to connect applications to an LLM.
+## Let’s build useful intelligence
 
----
+I’m interested in collaborating on:
 
-🤝 Connect
+- AI platform engineering and agentic systems;
+- intelligent infrastructure and PropTech;
+- enterprise automation and legal technology;
+- reliable MCP and tool ecosystems;
+- AI governance, evaluation and operational safety;
+- software delivery designed for AI-assisted teams.
 
-I'm interested in collaborating with engineers and organisations working on:
-
-- Agentic AI and multi-agent systems
-- AI platform engineering
-- Enterprise AI architecture
-- Intelligent infrastructure and PropTech
-- AI governance and reliability
-
-Building practical AI systems, one problem at a time.
+Building practical AI systems for consequential work.
