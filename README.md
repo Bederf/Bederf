@@ -41,6 +41,12 @@ A sanitized public skill set for building-operations workflows, including
 health monitoring, technician closeout, work orders, evidence capture, and
 approval boundaries.
 
+### [Leah Freqtrade Strategies](https://github.com/Bederf/leah-freqtrade-strategies)
+
+Evidence-first quantitative AI for crypto strategy research, combining
+FreqAI classification, macro-regime gating, dual momentum, and walk-forward
+validation.
+
 ## How I build
 
 I use coding agents as force multipliers for exploration, implementation,
